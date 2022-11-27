@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Kyle Nessen"
-categories: facts
+categories: about
 tags: 
 image: darwindog.png
 ---
